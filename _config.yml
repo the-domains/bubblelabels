@@ -1,0 +1,28 @@
+name: bubblelabels
+favicon: null
+layout_spectrum: 0.28823491861112416
+typography_spectrum: 0.8258616221137345
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.18076505698263645
+  lightness: 0.25095898006111383
+  saturation: 0.6069276330526918
+  rhythmicContrast: 0.8066238169558346
+purpose: []
